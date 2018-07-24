@@ -15,9 +15,10 @@ Usage
 
 .. code:: bash
 
-  $ python -m uncaptive
+  $ uncaptive
 
-Running tests:
+Running tests
+-------------
 
 .. code:: bash
 
