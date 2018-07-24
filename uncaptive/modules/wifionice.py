@@ -7,6 +7,7 @@
 .. moduleauthor:: Aljosha Friemann a.friemann@automate.wtf
 """
 
+import logging
 import requests
 
 try:
